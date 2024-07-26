@@ -119,8 +119,8 @@ What is a potential consequence of not having strong data privacy protections in
 
 **Top Answer:**
 ```
-Author: [your name here]
+Author: Benjamin
 
-[your answer here]
+Weak privacy protections opens us up to data hacks and potential threats from the outside, including the revealing of sensitive voter or user data.
 
 ```
